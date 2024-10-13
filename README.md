@@ -3,6 +3,10 @@
 ## Overview
 **twoDimensionalFlow** is a project focused on solving the two-dimensional Direct Numerical Simulation (DNS) of fluid flow over polygonal surfaces. This code provides a framework for simulating fluid dynamics and can be extended to various geometrical configurations.
 
+### Note
+This project is currently in its early stages. At the moment, only the grid creation functionality is fully operational.
+
+
 ## Features
 - Supports the simulation of fluid flow over complex polygonal surfaces.
 - Currently utilizes a mesh composed of **62,000 elements**, providing a good balance between accuracy and computational efficiency.
